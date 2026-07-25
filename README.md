@@ -5,11 +5,11 @@ A responsive Tripadvisor-inspired travel website built using HTML and CSS. This 
 
 ## 🚀 Live Demo
 
-🔗 Live Website: https://your-live-link.netlify.app
+🔗 Live Website:  https://susmithamariyappillai.github.io/travel/
 
 ## 💻 GitHub Repository
 
-🔗 GitHub: https://github.com/yourusername/tripadvisor-clone
+🔗 GitHub: https://github.com/susmithamariyappillai
 
 ## ✨ Features
 
